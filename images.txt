@@ -1,4 +1,4 @@
 nginx
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist:latest
-wxedge
+onething1/wxedge
