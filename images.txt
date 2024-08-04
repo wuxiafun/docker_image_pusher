@@ -2,3 +2,4 @@ nginx
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist:latest
 onething1/wxedge
+xiaoyaliu/glue
